@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Api repo 👉🏻 https://github.com/a-pyro/whats-the-weather-like-proxy-api 👈🏻
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
