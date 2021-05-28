@@ -4,7 +4,7 @@ import { Location } from '../types/location';
 import CityPicker from './CityPicker';
 
 const Home = () => {
-  const [location, setLocation] = useState<Location | undefined>();
+  const [location, setLocation] = useState<Location | null>(null);
 
   useEffect(() => {
     // (async () => {
